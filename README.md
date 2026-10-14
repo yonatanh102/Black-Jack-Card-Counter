@@ -33,7 +33,7 @@ An advanced, real-time Blackjack card counting and optimal strategy engine. This
 
 1. Clone the repository:
    ```bash
-   git clone Repository_Name
+   git clone https://github.com/yonatanh102/Black-Jack-Card-Counter.git
    cd Black-Jack-Card-Counter
    ```
 
