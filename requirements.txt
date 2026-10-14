@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+mss>=9.0.1
+numpy>=1.23.0
+pytest>=7.0.0
+pytest-mock>=3.10.0
